@@ -1,0 +1,21 @@
+{
+  "name": "crappyjunky",
+  "displayName": "CrappyJunky",
+  "description": "Making for fitting MY style (^_^)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CrappyJunky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CrappyJunky-color-theme.json"
+      }
+    ]
+  }
+}
