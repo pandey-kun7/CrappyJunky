@@ -1,9 +1,11 @@
-# Change Log
+# Changelog
 
-All notable changes to the "crappyjunky" extension will be documented in this file.
+All notable changes to the **CrappyJunky** theme will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] - 2026-04-15
+### Added
+- Initial release of the CrappyJunky theme.
+- High-contrast color palette featuring navy, cyan, and yellow.
+- Custom syntax highlighting for JSON, Markdown, and CSS.
+- Descriptive README with a customization guide.
+- Project cleanup and optimized `.gitignore` and `.vscodeignore` configurations.
