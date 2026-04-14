@@ -4,7 +4,7 @@ A dark, vibrant theme designed for those who love high-contrast colors and a per
 
 ## 🖼️ Preview
 
-![CrappyJunky Theme Preview](./pic.jpeg/assets)
+![CrappyJunky Theme Preview](./assets/pic.jpg)
 
 ## ✨ Features
 
